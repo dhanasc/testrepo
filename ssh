@@ -1,0 +1,8 @@
+Post-scan script results:
+| ssh-hostkey: Possible duplicate hosts
+| Key 1024 60:ac:4d:51:b1:cd:85:09:12:16:92:76:1d:5d:27:6e (DSA) used by:
+|   192.168.1.1
+|   192.168.1.2
+| Key 2048 2c:22:75:60:4b:c3:3b:18:a2:97:2c:96:7e:28:dc:dd (RSA) used by:
+|   192.168.1.1
+|_  192.168.1.2
